@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Happy Bday</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="LOGIN">Login</string>
+
+
+</resources>
